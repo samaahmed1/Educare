@@ -1,0 +1,17 @@
+section {
+  padding: 3.5rem 0;
+}
+.container {
+  margin: 0 auto;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.info h2 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
