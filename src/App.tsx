@@ -1,6 +1,7 @@
 import Hero from "./components/ui/Hero";
 import Welcome from "./components/ui/Welcome";
 import Header from "./components/layouts/Header";
+import Info from "./components/ui/Info.module/Info";
 import StartLearning from "./components/ui/StartLearning/StartLearning";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Welcome />
       <StartLearning/>
+      <Info/>
     </>
   );
 }
