@@ -8,7 +8,7 @@ export default function StartLearning(){
       <h2>Start learning by <br /> creating free account <br /> and get register</h2>
       </div>
       <div className="image">
-        <img src="/public/images/avatar-2.webp" alt="avatar" />
+        <img src="/images/avatar-2.webp" alt="avatar" />
       </div>
     </div>
   </section>

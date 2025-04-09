@@ -2,10 +2,10 @@ section {
   padding: 3.5rem 0;
 }
 .container {
-  gap: 40px;
+  gap: 30px;
   width: 90%;
   display: flex;
-  height: 180px;
+  height: 120px;
   margin: 0 auto;
   margin: 0 auto;
   flex-wrap: wrap;
@@ -13,6 +13,11 @@ section {
   align-items: center;
   justify-content: center;
   background-color: #f9e0ae;
+}
+@media(max-width: 991px){
+  .container {
+    height: 250px;
+  }
 }
 .container input {
   padding: 12px;
