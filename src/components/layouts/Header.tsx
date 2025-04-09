@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <>
-      <header className="py-5 sticky top-0 bg-[#F9E0AE]">
+      <header className="py-5 sticky top-0 bg-[#F9E0AE] z-10">
         <div className="container mx-auto px-5 flex justify-center md:justify-between items-center flex-wrap gap-2">
           <div className="logo">
             <a href="#">
